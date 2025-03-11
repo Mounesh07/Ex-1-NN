@@ -2,7 +2,7 @@
 <H3>ENTER YOUR REGISTER NO: 212222230084</H3>
 <H3>EX. NO.1</H3>
 <H3>DATE:7/3/2025</H3>
-<H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
+<H1 ALIGN =CENTER> Introduction to Kaggle and Data Preprocessing</H1>
 
 ## AIM:
 
@@ -95,13 +95,5 @@ print(len(X_test))
 ![image](https://github.com/user-attachments/assets/bc927c78-a598-4d9e-9a08-a5315a198ddd)
 ![image](https://github.com/user-attachments/assets/c2c38496-18f3-442e-98ec-aba612551129)
 
-
-
-
-
-
-
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
-
-
